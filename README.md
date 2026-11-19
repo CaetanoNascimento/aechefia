@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="assets/logo.png" width="130" alt="AeChefia logo"/>
+  <img src="logo.png" width="130" alt="AeChefia logo"/>
 </p>
 <h1 align="center">AeChefia</h1>
 <p align="center"><b>SaaS de Gestão para Bares e Restaurantes</b></p>
